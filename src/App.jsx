@@ -10,7 +10,7 @@ const App = () => {
   return (
       <div>
         <h1>หมูย่างน้ำตก</h1>
-       <h2 class="">ราคาไม้ละ {counter} บาท
+       <h2>ราคาไม้ละ {counter} บาท
        <button onClick={update}>+</button>
        <button onClick={decrease}>-</button>
        </h2>
